@@ -1,0 +1,29 @@
+
+
+.close {
+  background: black;
+}
+
+.icon {
+  border-radius: 5px;
+  height: 5vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.twitter {
+  background: #45ADED;
+}
+
+.facebook {
+  background: #3B579D;
+}
+
+.google {
+  background: #DC4E40;
+}
+
+input {
+  width: 70%;
+}
